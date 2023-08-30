@@ -1,16 +1,16 @@
-### Hi there 👋
+# Halo semua! 
 
-<!--
-**kennyreign/kennyreign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Kenneth Lengkong**.\
 
-Here are some ideas to get you started:
+Saya seorang **Video Editor** di [Chronicles Studio Production](https://www.chronicles-production.com/).\
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya bertanggung jawab pada produksi video, dan berdasarkan request client. Contohnya seperti Company Profile, Podcast, TVC, Online Course, dan sebagainya.\
+
+Saya juga bertanggung jawab atas kualitas proyek video yang dikerjakan dalam perusahaan ini.\
+
+Saya memiliki hobi editing foto/video sejak tahun 2016, dimana awalnya saya diajarkan oleh kakak saya sendiri yang memiliki passion yang sama dalam dunia kreatif. Anda dapat melihat portofolio saya di [Link Portofolio saya](https://kensnetlengkong.wixsite.com/kenny).\
+
+Saya juga sedang belajar di STTI NIIT I-Tech sejak tahun 2019, pada bidang Sistem Informasi-Multimedia. Anda dapat melihat informasi mengenai institut saya pada [link ini](https://www.i-tech.ac.id/).\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/kennethlengkong/)ku ya.
+
